@@ -1,0 +1,8 @@
+{"WS_sig": "WS_1", 
+"WD_sig": "WD_1", 
+"step": 5,
+"WD_min": 0, 
+"WD_max": 150, 
+"WS_min": 0, 
+"WS_max": 10, 
+"outpath": "data"}
